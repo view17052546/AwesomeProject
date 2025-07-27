@@ -12,6 +12,7 @@ export default function Section5() {
         <MyIcon title="Bath" name="bath" size={30} color="orange" />
         <MyIcon title="Car" name="car" size={30} color="orange" />
         <MyIcon title="Paw" name="paw" size={30} color="orange" />
+
       </View>
       
     </View>

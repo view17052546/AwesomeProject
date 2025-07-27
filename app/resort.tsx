@@ -18,7 +18,7 @@ export default function Resort() {
              <Section4 />
              <Section5 />  
              <Section6 /> 
-             <Section7/> 
+             <Section7 /> 
             </View>
         </ScrollView>
     );
